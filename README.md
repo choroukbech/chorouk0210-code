@@ -2,7 +2,7 @@
 # Hi there, I'm Chorouk! 👋
 
 Welcome to my profile! 🌸 
-I'm a passionate beginner programmer from Algeria 🇩🇿.
+I'm a passionate beginner programmer from Algeria .
 
 ## 🐍 What I'm learning right now:
 - Python programming language.
